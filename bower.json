@@ -16,7 +16,6 @@
     "flash/",
     "lib/",
     "plugins/",
-    "server/",
     "statics/",
     "tests/",
     "package.json",
